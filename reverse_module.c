@@ -8,7 +8,7 @@
 #include <linux/uaccess.h>
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Trevor Bakker <tbakker@gmail.com");
+MODULE_AUTHOR("Trevor Bakker <trevor.bakker@uta.edu>");
 MODULE_DESCRIPTION("String reverse kernel module");
 
 static unsigned long buffer_size = 8192;
